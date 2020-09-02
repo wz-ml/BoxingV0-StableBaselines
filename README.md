@@ -3,7 +3,7 @@ An implementation of a DQN trained on Openai Gym's boxing-v0-ram using Stable Ba
 
 The agent is playing the white character below:
 
-<img src = "https://github.com/wz-ml/BoxingV0-StableBaselines/blob/master/visualization.gif" alt = "An agent trained for 200,000 episodes beats the built-in AI handily." width = "400">
+<img src = "https://github.com/wz-ml/BoxingV0-StableBaselines/blob/master/visualization.gif" alt = "An agent trained for 200,000 episodes beats the built-in AI handily." width = "300">
 
 ## How well does it do?
 
