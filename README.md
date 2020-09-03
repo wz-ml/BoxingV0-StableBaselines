@@ -25,7 +25,7 @@ Want to train your own agent?
 
 Alternatively:
 - Click [here](https://colab.research.google.com/github/wz-ml/BoxingV0-StableBaselines/blob/master/Stable_Boxing.ipynb) to access the colab file directly.
-- Click file -> open in playground -> run all.
+- Click `File` -> `Open in Playground` or `Save copy to Drive` -> `Run All`.
 
 
 ## Credits
