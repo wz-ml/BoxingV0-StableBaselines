@@ -1,5 +1,5 @@
 # BoxingV0-StableBaselines
-An implementation of a DQN trained on Openai Gym's boxing-v0-ram using Stable Baselines. Credit goes to [StarAI](https://www.starai.io/course/) for Colab visualization code.
+An implementation of a DQN trained on Openai Gym's boxing-v0-ram using Stable Baselines. 
 
 The agent is playing the white character below:
 
@@ -18,4 +18,15 @@ The highest-performing agent (saved on episode 149,000) achieved an average scor
 ===========
 ## Training
 Want to train your own agent?
-Run the ipython file [here](https://github.com/wz-ml/BoxingV0-StableBaselines/blob/master/Stable_Boxing.ipynb). Click the link to Google Colab [here](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667) or on the ipython page to train the agent directly on Colab.
+- ``git clone`` this repository and run the ipython file [here](https://github.com/wz-ml/BoxingV0-StableBaselines/blob/master/Stable_Boxing.ipynb).
+Alternatively:
+- Click [here](https://colab.research.google.com/github/wz-ml/BoxingV0-StableBaselines/blob/master/Stable_Boxing.ipynb) to access the colab file directly.
+- Click file -> open in playground -> run all.
+
+## Credits
+Credit goes to [StarAI](https://www.starai.io/course/) for Colab visualization code.
+Check out the [Stable Baselines](https://stable-baselines.readthedocs.io/en/master/) library for awesome reinforcement learning algorithms!
+
+## License
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+- **[Apache 2.0 License](https://opensource.org/licenses/Apache-2.0)**
