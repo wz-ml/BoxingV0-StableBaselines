@@ -1,5 +1,5 @@
 # BoxingV0-StableBaselines
-An implementation of a DQN trained on Openai Gym's boxing-v0-ram using Stable Baselines. 
+An implementation of a DQN trained on Openai Gym's [Boxing-ram-v0](https://gym.openai.com/envs/Boxing-ram-v0/) using [Stable Baselines](https://stable-baselines.readthedocs.io/en/master/). 
 
 The agent is playing the white character below:
 
