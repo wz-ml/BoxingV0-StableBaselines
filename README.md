@@ -6,7 +6,7 @@ The agent is playing the white character below:
 <img src = "https://github.com/wz-ml/BoxingV0-StableBaselines/blob/master/visualization.gif" alt = "An agent trained for 200,000 episodes beats the built-in AI handily." width = "300">
 
 
-## How well does it do?
+## Performance
 
 ![](https://github.com/wz-ml/BoxingV0-StableBaselines/blob/master/training_rewards.png?raw=true)
 
@@ -16,6 +16,7 @@ Unfortunately, training got really unreliable (probably because of the vanilla D
 
 The highest-performing agent (saved on episode 149,000) achieved an average score of 40.54 over 37 test episodes.
 
+---
 
 ## Training
 Want to train your own agent?
